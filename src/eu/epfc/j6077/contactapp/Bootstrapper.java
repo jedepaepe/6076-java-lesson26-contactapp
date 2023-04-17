@@ -1,3 +1,5 @@
+package eu.epfc.j6077.contactapp;
+
 import java.sql.*;
 import java.util.Scanner;
 
